@@ -3,8 +3,8 @@
 ## 1.Clone this repository and go to the repository directory:
 
 ```bash
-git clone https://github.com/stealthspectre/electronicAffidavit
-cd electronicAffidavit
+git@github.com:varadudi/ElectronicAffidavit.git
+cd ElectronicAffidavit
 ```
 
 ---
@@ -59,5 +59,4 @@ npm audit fix --force
 cd ..
 npm run dev
 ```
-
 ---
